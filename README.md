@@ -32,11 +32,11 @@
 
 - 🌱 I’m currently learning **to put together complex applications with cloud computing**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- ☁️ I have a keen interest in cloud computing. So I'm learning **AWS and Firebase**
 
 - 📝 I believe in a free and open-source future. You can use anything from my repositories as you wish.
 
-- 💬 Ask me about **AWS, react, nodejs, nextjs, postgreSQL**
+- 💬 Ask me about **AWS, React, Nodejs, Nextjs, postgreSQL**
 
 - 📫 Feel free to reach me out **lucasclaudinocc@gmail.com**
 
