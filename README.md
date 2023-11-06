@@ -28,15 +28,15 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, PostgreSQL, KDE Plasma**
+- 🔭 I’m currently working on **AWS, Java, Spring Boot, React, Nodejs/Express, PostgreSQL, Qt + KDE Plasma (Linux)**
 
-- 🌱 I’m currently learning **to put together complex applications with cloud computing**
+- 🌱 I’m currently learning **to put together complex applications with Spring Boot**
 
 - ☁️ I have a keen interest in cloud computing. So I'm learning **AWS and Firebase**
 
 - 📝 I believe in a free and open-source future. You can use anything from my repositories as you wish.
 
-- 💬 Ask me about **AWS, React, Nodejs, Nextjs, postgreSQL**
+- 💬 Ask me about **Java, Spring Boot, Typescript, React, Nodejs, Nextjs, postgreSQL**
 
 - 📫 Feel free to reach me out **lucasclaudinocc@gmail.com**
 
